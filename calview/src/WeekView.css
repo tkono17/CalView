@@ -1,0 +1,5 @@
+.WeekView {
+    width: 950px;
+    background-color: lightyellow;
+    display: flex;
+}

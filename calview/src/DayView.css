@@ -1,0 +1,10 @@
+.DayView {
+    width: 180px;
+    height: 1000px;
+    background-color: lightgoldenrodyellow;
+}
+
+.DayView h3 {
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
