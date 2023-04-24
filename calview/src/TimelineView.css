@@ -1,0 +1,11 @@
+.TimelineView {
+    width: 950px;
+    background-color: lightyellow;
+    display: flex;
+}
+
+.TimelineView h3 {
+    width: 80%;
+    margin: 0px 12% 0px 12%;
+    color: red;
+}
