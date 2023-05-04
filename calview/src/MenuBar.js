@@ -1,5 +1,5 @@
 import Menu from './Menu.js'
-import './MenuBar.css'
+import './calview.css'
 
 function MenuBar() {
     return (

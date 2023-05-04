@@ -1,3 +1,5 @@
+import './calview.css'
+
 function Event(props) {
   return (<div className="Event">
       {props.name}

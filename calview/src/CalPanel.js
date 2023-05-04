@@ -1,4 +1,5 @@
 import TimelineView from './TimelineView.js'
+import './calview.css'
 
 function CalPanel() {
   return (

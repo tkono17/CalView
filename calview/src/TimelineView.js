@@ -1,7 +1,7 @@
 import React from 'react'
 import Timeline from './Timeline.js'
 import Event from './Event.js'
-import './TimelineView.css'
+import './calview.css'
 
 class TimelineView extends React.Component {
 

@@ -1,4 +1,4 @@
-import './App.css'
+import './calview.css'
 import MenuBar from './MenuBar.js'
 import QueryPanel from './QueryPanel.js'
 import CalPanel from './CalPanel.js'

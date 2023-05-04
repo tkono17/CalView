@@ -1,4 +1,4 @@
-import './QueryPanel.css'
+import './calview.css'
 
 function QueryPanel(props) {
     return (
