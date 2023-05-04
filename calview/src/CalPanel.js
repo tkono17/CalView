@@ -3,7 +3,8 @@ import TimelineView from './TimelineView.js'
 function CalPanel() {
   return (
     <div className="CalPanel">
-      <TimelineView title="Week view" />
+      <h3>Week view</h3>
+      <TimelineView />
     </div>)
 }
 

@@ -5,8 +5,8 @@ class TimeLine extends Component {
 
     render() {
         return (
-            <div className="TimeLine">
-                <h3>day={this.props.index}</h3>
+            <div className="Timeline">
+                <h3>index={this.props.index}</h3>
                 {this.props.events}
             </div>
         )

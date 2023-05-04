@@ -1,11 +1,7 @@
 .TimelineView {
-    width: 950px;
-    background-color: lightyellow;
+    margin: 5px 5px 5px 5px;
+    height: 600px;
+    background-color: rgb(41, 203, 209);
     display: flex;
-}
-
-.TimelineView h3 {
-    width: 80%;
-    margin: 0px 12% 0px 12%;
-    color: red;
+    justify-content: space-evenly;
 }

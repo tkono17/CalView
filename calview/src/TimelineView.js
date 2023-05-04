@@ -17,14 +17,11 @@ class TimelineView extends React.Component {
         ]
         return (
             <div className="TimelineView">
-                <h3>{this.props.title}</h3>
-                <div>
-                    <Timeline index="1" startTime={dayStart} endTime={dayEnd} events={day1_events} />
-                    <Timeline index="2" startTime={dayStart} endTime={dayEnd} />
-                    <Timeline index="3" startTime={dayStart} endTime={dayEnd} events={day3_events} />
-                    <Timeline index="4" startTime={dayStart} endTime={dayEnd} />
-                    <Timeline index="5" startTime={dayStart} endTime={dayEnd} />
-                </div>
+                <Timeline index="1" startTime={dayStart} endTime={dayEnd} events={day1_events} />
+                <Timeline index="2" startTime={dayStart} endTime={dayEnd} />
+                <Timeline index="3" startTime={dayStart} endTime={dayEnd} events={day3_events} />
+                <Timeline index="4" startTime={dayStart} endTime={dayEnd} />
+                <Timeline index="5" startTime={dayStart} endTime={dayEnd} />
             </div>
         )
     }
